@@ -2,5 +2,5 @@ html {
     
     
     background-image: url("../images/car.jpg");
-    
+    background-repeat: none;
 }
