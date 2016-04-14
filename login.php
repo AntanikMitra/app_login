@@ -10,11 +10,11 @@
 <body>
 
 <form method="post" action="validate.php">
-<div>
+<div class="width center">
 	<label for="username">Username:</label>
 	<input name="username" />
 </div>
-<div>
+<div class="width center">
 	<label for="password">Password:</label>
 	<input name="password" type="password" />
 </div>
