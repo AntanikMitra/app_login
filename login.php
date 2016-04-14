@@ -11,11 +11,11 @@
 <body>
 
 <form method="post" action="validate.php">
-<div class="input-field col s7">
+<div class="input-field col s12">
 	<label for="username">Username:</label>
 	<input name="username" />
 </div>
-<div class="input-field col s7">
+<div class="input-field col s12">
 	<label for="password">Password:</label>
 	<input name="password" type="password" />
 </div>
